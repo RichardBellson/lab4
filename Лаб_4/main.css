@@ -1,0 +1,61 @@
+p.title {
+    /* margin-bottom: 5px; /*задаем отступ*/
+    color:#212121; /*задаем цвет шрифта*/
+    font-size: 60px; /*размер шрифта*/
+    text-align: center;
+    /*padding: 0px 0px 0px 50px; /* сверху справа снизу слева*/
+}
+
+header {
+    padding: 30px;
+    background: #FFF8DC;
+}
+
+p.title_header {
+    color:#A0522D; /*задаем цвет шрифта*/
+    font-size: 35px; /*размер шрифта*/
+    text-align: center;
+}
+
+p.text_header {
+    color:#A0522D; /*задаем цвет шрифта*/
+    font-size: 25px; /*размер шрифта*/
+    text-align: justify;
+}
+
+p.title2 {
+    color:#212121; /*задаем цвет шрифта*/
+    font-size: 30px; /*размер шрифта*/
+}
+
+.img-wrap {
+    position: relative;
+}
+
+.img-wrap h1 {
+    position: absolute;
+    left: 0;
+    bottom: 55px;
+    width: 100%;
+    font-size:30px;
+    color: white;
+    text-shadow: 1px 0 1px #000,
+    0 1px 1px #000,
+    -1px 0 1px #000,
+    0 -1px 1px #000;
+}
+
+body {
+    background: #FFF8DC;
+    padding-bottom: 10px;
+}
+
+.container2 {
+    width: 100%;
+    padding-right: 400px;
+    padding-left: 400px;
+    padding-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    background: #F6F6F8;
+}
